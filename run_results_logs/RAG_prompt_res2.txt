@@ -1,0 +1,160 @@
+********* last_ingested_db.txt
+NK_CV_ver_7_pdf_full
+
+C:\niki\log_2025\nk_ai\rag_chat_pdf\.venv\Scripts\python.exe C:\niki\log_2025\nk_ai\rag_chat_pdf\interactive_rag_qa.py
+Loading model sentence-transformers/all-MiniLM-L6-v2...
+Model client loaded successfully.
+Embedding model client initialized.
+Local LLM client initialized using Ollama model: llama3.2:3b
+Attempting to load vector store from: ./chroma_db/NK_CV_ver_7_pdf_full
+Loading vector store from: ./chroma_db/NK_CV_ver_7_pdf_full
+
+[READY] Full Local RAG Application is ready. Ask a question about the PDF.
+Type 'exit' or 'quit' to close the application.
+
+------------------------------------------------------------
+Q: Q: What were the most recent projects mentioned, and what technologies did they involve?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+**Recent Projects Mentioned**
+---------------------------
+
+Here are the most recent projects mentioned in the context:
+
+* **2025**: 
+    * Generative Neural Network Model of Colour Recognition, Registration and Decision Making using Constructive Geometry and the DAN integrative neural architecture
+    * Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines
+    * AI Agents and LLMs (ChatGPT, Gemini, Amazon-Q, Hugging Face)
+* **2021**: 
+    * The Russian-Dolls Ideas Package toward more practical and more observable DNN model creation and exploitation
+    * Complex Multidimensional AI/ML Model Data Unpacking and Visualization - Colour Rendering of Model Tensors
+
+**Technologies Involved**
+-------------------------
+
+Here are the technologies involved in these recent projects:
+
+* **2025**: 
+    * Matlab, Novel Neural Network Architecture that practically does not require pre-training (DAN)
+    * Keras/Tensorflow
+    * Python
+* **2021**: 
+    * Python
+    * ONNX
+    * Neuron
+    * C/C++
+    * Java
+============================================================
+
+Sources Used for Synthesis:
+- Source: Unknown (Page Unknown)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.90 seconds
+  Synthesis (Ollama LLM):        573.07 seconds
+  Total RAG Time:                573.97 seconds
+------------------------------------------------------------
+Q: What were the most recent projects mentioned, and what technologies did they involve?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+**Recent Projects**
+====================
+
+The following are the most recent projects mentioned in Nedialko Krouchev's document:
+
+* **2025**: 
+    * Generative Neural Network Model of Colour Recognition, Registration and Decision Making using Constructive Geometry and the DAN integrative neural architecture (Matlab)
+    * Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines (python, Java, MySQL)
+    * AI Agents and LLMs with python, Java, ChatGPT, Gemini, Amazon-Q, Hugging Face
+* **2021**:
+    * The Russian-Dolls Ideas Package toward more practical and more observable DNN model creation and exploitation (python, ONNX)
+    * Complex Multidimensional AI/ML Model Data Unpacking and Visualization - Colour Rendering of Model Tensors, complete with a multi-dimensions explorer UI (python, C/C++, ONNX, neuron, Keras/Tensorflow, CUDA)
+
+**Involved Technologies**
+-------------------------
+
+The following technologies were involved in the recent projects:
+
+* **2025**:
+    * Matlab
+    * Novel Neural Network Architecture (DAN)
+    * Python
+    * Java
+    * ChatGPT
+    * Gemini
+    * Amazon-Q
+    * Hugging Face
+* **2021**:
+    * Python
+    * ONNX
+    * Neuron
+    * Keras/Tensorflow
+    * CUDA
+============================================================
+
+Sources Used for Synthesis:
+- Source: Unknown (Page Unknown)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 1.19 seconds
+  Synthesis (Ollama LLM):        53.17 seconds
+  Total RAG Time:                54.36 seconds
+------------------------------------------------------------
+Q: 
+
+------------------------------------------------------------
+Q: What were the most recent projects mentioned, and what technologies did they involve?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+**Recent Projects**
+====================
+
+The following are the most recent projects mentioned in Nedialko Krouchev's document:
+
+* **2025**: 
+    * Generative Neural Network Model of Colour Recognition, Registration and Decision Making using Constructive Geometry and the DAN integrative neural architecture (Matlab)
+    * Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines (python, Java, MySQL)
+    * AI Agents and LLMs with python, Java, ChatGPT, Gemini, Amazon-Q, Hugging Face
+* **2021**:
+    * The Russian-Dolls Ideas Package toward more practical and more observable DNN model creation and exploitation (python, ONNX)
+    * Complex Multidimensional AI/ML Model Data Unpacking and Visualization - Colour Rendering of Model Tensors, complete with a multi-dimensions explorer UI (python, C/C++, ONNX, neuron, Keras/Tensorflow, CUDA)
+
+**Involved Technologies**
+-------------------------
+
+The following technologies were involved in the recent projects:
+
+* **2025**:
+    * Matlab
+    * Novel Neural Network Architecture (DAN)
+    * Python
+    * Java
+    * ChatGPT
+    * Gemini
+    * Amazon-Q
+    * Hugging Face
+* **2021**:
+    * Python
+    * ONNX
+    * Neuron
+    * Keras/Tensorflow
+    * CUDA
+============================================================
+
+Sources Used for Synthesis:
+- Source: Unknown (Page Unknown)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 1.19 seconds
+  Synthesis (Ollama LLM):        53.17 seconds
+  Total RAG Time:                54.36 seconds
+------------------------------------------------------------
+Q: exit
+
+Process finished with exit code 0

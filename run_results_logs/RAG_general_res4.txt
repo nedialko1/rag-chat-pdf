@@ -1,0 +1,65 @@
+********* last_ingested_db.txt
+NK_CV_ver_7_pdf_chunked
+
+C:\niki\log_2025\nk_ai\rag_chat_pdf\.venv\Scripts\python.exe C:\niki\log_2025\nk_ai\rag_chat_pdf\interactive_rag_qa.py 
+Loading model sentence-transformers/all-MiniLM-L6-v2...
+Model client loaded successfully.
+Embedding model client initialized.
+Local LLM client initialized using Ollama model: llama3.2:3b
+Attempting to load vector store from: ./chroma_db/NK_CV_ver_7_pdf_chunked
+Loading vector store from: ./chroma_db/NK_CV_ver_7_pdf_chunked
+
+[READY] Full Local RAG Application is ready. Ask a question about the PDF.
+Type 'exit' or 'quit' to close the application.
+------------------------------------------------------------
+Q: How many letters 'b' are there in the word "MISTRAL"
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+**Answer**
+===============
+
+According to the provided document chunk, I was unable to find any information about the word "MISTRAL". However, I can tell you that I couldn't verify if any text mentions this word.
+
+If you'd like me to try and look up a different query regarding software or technical information, please feel free to let me know.
+============================================================
+
+Sources Used for Synthesis:
+- Source: NK_CV_ver_7.pdf (Page 3)
+- Source: NK_CV_ver_7.pdf (Page 5)
+- Source: NK_CV_ver_7.pdf (Page 6)
+- Source: NK_CV_ver_7.pdf (Page 9)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 1.23 seconds
+  Synthesis (Ollama LLM):        159.13 seconds
+  Total RAG Time:                160.37 seconds
+------------------------------------------------------------
+Q: 
+
+********* last_ingested_db.txt 
+NK_CV_ver_7_pdf_full
+
+------------------------------------------------------------
+Q: How many letters 'b' are there in the word "MISTRAL"
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+**Answer**
+**Count of Letters 'b' in "MISTRAL"**
+
+*   There is **0 letter 'b'** in the word "MISTRAL".
+============================================================
+
+Sources Used for Synthesis:
+- Source: Unknown (Page Unknown)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 1.33 seconds
+  Synthesis (Ollama LLM):        497.41 seconds
+  Total RAG Time:                498.74 seconds
+------------------------------------------------------------
+Q: 
+

@@ -1,0 +1,18 @@
+# Core LangChain RAG Components
+
+langchain-ollama
+langchain-chroma
+langchain-core
+langchain-community
+pypdf
+
+# For the Local Embedding Service (FastAPI)
+
+fastapi
+uvicorn[standard]
+requests
+sentence-transformers
+
+# langchain-huggingface is included for completeness, as it appears in the code's imports
+
+langchain-huggingface

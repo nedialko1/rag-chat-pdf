@@ -1,0 +1,137 @@
+********* last_ingested_db.txt
+NK_CV_ver_7_pdf_chunked
+
+C:\niki\log_2025\nk_ai\rag_chat_pdf\.venv\Scripts\python.exe C:\niki\log_2025\nk_ai\rag_chat_pdf\interactive_rag_qa.py 
+Loading model sentence-transformers/all-MiniLM-L6-v2...
+Model client loaded successfully.
+Embedding model client initialized.
+Local LLM client initialized using Ollama model: llama3.2:3b
+Attempting to load vector store from: ./chroma_db/NK_CV_ver_7_pdf_chunked
+Loading vector store from: ./chroma_db/NK_CV_ver_7_pdf_chunked
+
+[READY] Full Local RAG Application is ready. Ask a question about the PDF.
+Type 'exit' or 'quit' to close the application.
+------------------------------------------------------------
+Q: Quels sont les projets les plus récents mentionnés et quelles technologies impliquaient-ils ?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+**Projets les plus récents et technologies utilisées**
+
+* **2025**
+  + *Generative Neural Network Model of Colour Recognition, Registration and Decision Making using Constructive Geometry and the DAN integrative neural architecture*
+    - Technologie : Matlab, Novel Neural Network Architecture
+    - Domaine : AI/ML, Neural Networks, Complex Neural Dynamics Modeling et Simulation
+    - Équipe : GRSNC U.Montreal
+  + *Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines* 
+    - Technologie : python, Java, MySQL
+    - Domaine : Retrieval-augmented Intelligent Big-Data Acquisition et Processing
+  + *AI Agents and LLMs*
+    - Technologie : python, Java, ChatGPT, Gemini, Amazon-Q, Hugging Face
+    - Domaine : Retrieval-augmented Intelligent Big-Data Acquisition et Processing
+    - Note : Certificat
+============================================================
+
+Sources Used for Synthesis:
+- Source: NK_CV_ver_7.pdf (Page 4)
+- Source: NK_CV_ver_7.pdf (Page 6)
+- Source: NK_CV_ver_7.pdf (Page 8)
+- Source: NK_CV_ver_7.pdf (Page 9)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.86 seconds
+  Synthesis (Ollama LLM):        191.93 seconds
+  Total RAG Time:                192.79 seconds
+------------------------------------------------------------
+Q: 
+
+********* last_ingested_db.txt 
+NK_CV_ver_7_pdf_full
+
+C:\niki\log_2025\nk_ai\rag_chat_pdf\.venv\Scripts\python.exe C:\niki\log_2025\nk_ai\rag_chat_pdf\interactive_rag_qa.py 
+Loading model sentence-transformers/all-MiniLM-L6-v2...
+Model client loaded successfully.
+Embedding model client initialized.
+Local LLM client initialized using Ollama model: llama3.2:3b
+Attempting to load vector store from: ./chroma_db/NK_CV_ver_7_pdf_full
+Loading vector store from: ./chroma_db/NK_CV_ver_7_pdf_full
+
+[READY] Full Local RAG Application is ready. Ask a question about the PDF.
+Type 'exit' or 'quit' to close the application.
+------------------------------------------------------------
+Q: Bonjour! Comment ca va? 
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+**Bonjour!**
+
+Here are the key points from Nedialko Krouchev's context:
+
+**Summary of Experience and Expertise**
+
+* Expertise in AI/ML, Neural Networks, Modeling, Original RNN architecture
+* Vast experience with various models, programming languages, and frameworks
+* Strong background in software engineering, data science, and operations research
+
+**Key Projects and Technologies**
+
+* Generative Neural Network Model of Colour Recognition (2025)
+* Automated Confluence Documentation Pages generation (2025)
+* AI Agents and LLMs (2021)
+* Complex Multidimensional AI/ML Model Data Unpacking and Visualization (2021)
+* Airbus A3xx flight simulators Corporate Big Data Post-processing (2020)
+
+**Education and Certifications**
+
+* PhD in Biomedical Engineering and Computational Neuroscience (Polytechnique Montréal, 2015)
+* MSc in Electrical Engineering (TU Sofia, 1992)
+* Various certifications and courses in AI/ML, data science, and software engineering
+
+**Language Skills**
+
+* Fluent in Bulgarian, English, French
+* Familiarity with various programming languages, including C/C++, Python, Java, JavaScript, R, Ada, Cobol, Pascal, and Visual Basic.
+
+Please let me know if you'd like to ask another question or clarify any of these points.
+============================================================
+
+Sources Used for Synthesis:
+- Source: Unknown (Page Unknown)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.86 seconds
+  Synthesis (Ollama LLM):        508.84 seconds
+  Total RAG Time:                509.70 seconds
+------------------------------------------------------------
+Q: 
+
+..
+
+------------------------------------------------------------
+Q: Quels sont les projets les plus récents mentionnés et quelles technologies impliquaient-ils ?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+**Projets récents**
+
+Voici les projets les plus récents mentionnés dans le document :
+
+*   **Generative Neural Network Model of Colour Recognition, Registration and Decision Making using Constructive Geometry and the DAN integrative neural architecture** (2025) - Technologie : Matlab, Novelle Architecture de Réseau Neuronal Intégré
+*   **Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines** (2025) - Technologie : Python, Java, MySQL
+*   **AI Agents and LLMs** (2025) - Technologie : python, Java, ChatGPT, Gemini, Amazon Q, Hugging Face
+*   **The Russian-Dolls Ideas Package toward more practical and more observable DNN model creation and exploitation** (2021) - Technologie : Python, ONNX, Neuron
+*   **Complex Multidimensional AI/ML Model Data Unpacking and Visualization - Colour Rendering of Model Tensors** (2021) - Technologie : Python, C/C++, ONNX, neuron, Keras/Tensorflow, CUDA
+============================================================
+
+Sources Used for Synthesis:
+- Source: Unknown (Page Unknown)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.91 seconds
+  Synthesis (Ollama LLM):        573.70 seconds
+  Total RAG Time:                574.61 seconds
+------------------------------------------------------------
+Q: 

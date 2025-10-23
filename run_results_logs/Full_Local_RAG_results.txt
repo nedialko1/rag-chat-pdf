@@ -1,0 +1,276 @@
+
+********* last_ingested_db.txt 
+NK_CV_ver_7_pdf_full
+
+Model client loaded successfully.
+Embedding model client initialized.
+Local LLM client initialized using Ollama model: llama3.2:3b
+Loading vector store from: ./chroma_db/NK_CV_ver_7_pdf_full
+
+[READY] Full Local RAG Application is ready. Ask a question about the PDF.
+Type 'exit' or 'quit' to close the application.
+------------------------------------------------------------
+Q: What were the most recent projects mentioned, and what technologies did they involve?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+The most recent projects mentioned are:
+
+1. Generative Neural Network Model of Colour Recognition, Registration and Decision Making using Constructive Geometry and the DAN integrative neural architecture (2025)
+  * Technologies involved: Matlab, Novel Neural Network Architecture, AI/ML, Neural Networks
+2. Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines (2025)
+  * Technologies involved: python, Java, MySQL
+3. AI Agents and LLMs (2025)
+  * Technologies involved: python, Java, ChatGPT, Gemini, Amazon-Q, Hugging Face (Certificate)
+
+These projects are listed in the "Selected Publications" section of the document.
+============================================================
+
+Sources Used for Synthesis:
+- Source: Unknown (Page Unknown)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.34 seconds
+  Synthesis (Ollama LLM):        593.92 seconds
+  Total RAG Time:                594.26 seconds
+------------------------------------------------------------
+
+------------------------------------------------------------
+Q: What were the most recent projects mentioned, and what technologies did they involve?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+The most recent projects mentioned are:
+
+1. Generative Neural Network Model of Colour Recognition, Registration and Decision Making using Constructive Geometry and the DAN integrative neural architecture (2025)
+  * Technologies involved: Matlab, Novel Neural Network Architecture, AI/ML, Neural Networks, Complex Neural Dynamics Modeling and Simulation
+2. Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines (2025)
+  * Technologies involved: Python, Java, MySQL
+3. AI Agents and LLMs using python, Java, ChatGPT, Gemini, Amazon-Q, Hugging Face (Certificate) (2025)
+  * Technologies involved: Retrieval-augmented Intelligent Big-Data Acquisition and Processing, Plusgrade
+4. The Russian-Dolls Ideas Package toward more practical and more observable DNN model creation and exploitation (2021)
+  * Technologies involved: Python, ONNX, neuron AI/ML, DNNs, Complex Multidimensional Data Modeling
+5. Complex Multidimensional AI/ML Model Data Unpacking and Visualization - Colour Rendering of Model Tensors, complete with a multi-dimensions explorer UI (2021)
+  * Technologies involved: Python, C/C++, ONNX, neuron, Keras/Tensorflow, CUDA
+
+Note that the projects are not necessarily recent in terms of completion date, but rather in terms of being mentioned in the document.
+============================================================
+
+Sources Used for Synthesis:
+- Source: Unknown (Page Unknown)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.91 seconds
+  Synthesis (Ollama LLM):        50.67 seconds
+  Total RAG Time:                51.58 seconds
+------------------------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+# python ingest_pdf.py --mode full
+
+********* last_ingested_db.txt 
+TMP (Embedded with the HF service) 
+    ~~(likely identical to)~~ NK_CV_ver_7_pdf_chunked
+
+------------------------------------------------------------
+Q: What were the most recent projects mentioned, and what technologies did they involve?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+The most recent projects mentioned are:
+
+1. Generative Neural Network Model of Colour Recognition, Registration, and Decision Making using Constructive Geometry and the DAN integrative neural architecture
+2. Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines
+3. AI Agents and LLMs (specifically ChatGPT, Gemini, Amazon-Q, and Hugging Face)
+
+The technologies involved in these projects are:
+
+1. Generative Neural Network Model:
+  * Matlab
+  * Novel Neural Network Architecture
+  * Constructive Geometry
+  * DAN integrative neural architecture
+2. Automated Confluence Documentation Pages generation and update:
+  * Python
+  * Java
+  * MySQL
+3. AI Agents and LLMs:
+  * Python
+  * Java
+============================================================
+
+Sources Used for Synthesis:
+- Source: NK_CV_ver_7.pdf (Page 5)
+- Source: NK_CV_ver_7.pdf (Page 8)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.17 seconds
+  Synthesis (Ollama LLM):        206.96 seconds
+  Total RAG Time:                207.13 seconds
+------------------------------------------------------------
+
+------------------------------------------------------------
+Q: What were the most recent projects mentioned, and what technologies did they involve?
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+The most recent projects mentioned are:
+
+1. Generative Neural Network Model of Colour Recognition, Registration and Decision Making using Constructive Geometry and the DAN integrative neural architecture
+2. Automated Confluence Documentation Pages generation and update through scheduled Jenkins ELT pipelines
+3. AI Agents and LLMs
+
+These projects involve the following technologies:
+
+* Generative Neural Network Model: Matlab, Novel Neural Network Architecture, Neural Networks, Complex Neural Dynamics Modeling and Simulation
+* Automated Confluence Documentation Pages generation and update: Python, Java, MySQL
+* AI Agents and LLMs: Python, Java, ChatGPT, Gemini, Amazon-Q, Hugging Face (Certificate)
+============================================================
+
+Sources Used for Synthesis:
+- Source: NK_CV_ver_7.pdf (Page 5)
+- Source: NK_CV_ver_7.pdf (Page 8)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.18 seconds
+  Synthesis (Ollama LLM):        17.91 seconds
+  Total RAG Time:                18.09 seconds
+------------------------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+------------------------------------------------------------
+Q: Who's Nedialko
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+Based on the provided context, it can be inferred that "Nedialko" is likely a person, possibly the author of the document. The mention of their full name, "Nedialko Krouchev (*)", suggests that they are the subject being referred to in the text.
+
+There is no explicit statement confirming Nedialko's identity or role, but based on the context and their professional experience listed, it appears that they are a software engineer with expertise in various areas of AI/ML, computer vision, and other technical fields.
+============================================================
+
+Sources Used for Synthesis:
+- Source: NK_CV_ver_7.pdf (Page 0)
+- Source: NK_CV_ver_7.pdf (Page 5)
+- Source: NK_CV_ver_7.pdf (Page 6)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.04 seconds
+  Synthesis (Ollama LLM):        109.67 seconds
+  Total RAG Time:                109.72 seconds
+------------------------------------------------------------
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+Nedialko Krouchev.
+============================================================
+
+Sources Used for Synthesis:
+- Source: NK_CV_ver_7.pdf (Page 0)
+- Source: NK_CV_ver_7.pdf (Page 5)
+- Source: NK_CV_ver_7.pdf (Page 6)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.05 seconds
+  Synthesis (Ollama LLM):        1.49 seconds
+  Total RAG Time:                1.54 seconds
+------------------------------------------------------------
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+------------------------------------------------------------
+Q: Who's Krouchev
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+Krouchev is Nedialko Krouchev.
+============================================================
+
+Sources Used for Synthesis:
+- Source: NK_CV_ver_7.pdf (Page 0)
+- Source: NK_CV_ver_7.pdf (Page 5)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.98 seconds
+  Synthesis (Ollama LLM):        136.34 seconds
+  Total RAG Time:                137.33 seconds
+------------------------------------------------------------
+Q: 
+
+------------------------------------------------------------
+Q: Who's Krouchev
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+Nedialko Krouchev.
+============================================================
+
+Sources Used for Synthesis:
+- Source: NK_CV_ver_7.pdf (Page 0)
+- Source: NK_CV_ver_7.pdf (Page 5)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.10 seconds
+  Synthesis (Ollama LLM):        1.50 seconds
+  Total RAG Time:                1.61 seconds
+------------------------------------------------------------
+
+********* last_ingested_db.txt 
+NK_CV_ver_7_pdf_chunked
+
+[READY] Full Local RAG Application is ready. Ask a question about the PDF.
+Type 'exit' or 'quit' to close the application.
+------------------------------------------------------------
+Q: Who's Krouchev
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+Nedialko Krouchev.
+============================================================
+
+Sources Used for Synthesis:
+- Source: C:/niki/log_2025/nk_ai/rag_chat_pdf/NK_CV_ver_7.pdf (Page 0)
+- Source: C:/niki/log_2025/nk_ai/rag_chat_pdf/NK_CV_ver_7.pdf (Page 2)
+- Source: C:/niki/log_2025/nk_ai/rag_chat_pdf/NK_CV_ver_7.pdf (Page 5)
+- Source: C:/niki/log_2025/nk_ai/rag_chat_pdf/NK_CV_ver_7.pdf (Page 6)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 0.38 seconds
+  Synthesis (Ollama LLM):        173.06 seconds
+  Total RAG Time:                173.44 seconds
+------------------------------------------------------------
+
+>>> #2
+
+------------------------------------------------------------
+Q: Who's Krouchev
+
+Thinking...
+
+==================== SYNTHESIZED ANSWER (RAG-A) ====================
+Nedialko Krouchev.
+============================================================
+
+Sources Used for Synthesis:
+- Source: C:/niki/log_2025/nk_ai/rag_chat_pdf/NK_CV_ver_7.pdf (Page 0)
+- Source: C:/niki/log_2025/nk_ai/rag_chat_pdf/NK_CV_ver_7.pdf (Page 2)
+- Source: C:/niki/log_2025/nk_ai/rag_chat_pdf/NK_CV_ver_7.pdf (Page 5)
+- Source: C:/niki/log_2025/nk_ai/rag_chat_pdf/NK_CV_ver_7.pdf (Page 6)
+
+Timing Summary:
+  Retrieval (Chroma/Embeddings): 1.67 seconds
+  Synthesis (Ollama LLM):        1.87 seconds
+  Total RAG Time:                3.54 seconds
+------------------------------------------------------------
+Q:  
+

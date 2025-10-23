@@ -1,0 +1,22 @@
+# --- Core RAG Components (Comprehensive! List) ---
+
+pypdf # PDF document loading
+
+# Includes current, superseded, and specialized packages for completeness.
+langchain-ollama # Current LLM client
+langchain-chroma # Vector Store (ChromaDB)
+langchain-core # LangChain abstraction layer
+langchain-community # Used for PyPDFLoader, etc.
+
+# langchain-huggingface is included for completeness, as it appears in the code's imports
+
+langchain-huggingface # Included as a historical dependency/possible alternative
+
+# For the Local Embedding Service (FastAPI .. or rather not :)
+
+## --- Local Embedding Service (FastAPI) ---
+fastapi # Web framework for the embedding service
+uvicorn[standard] # ASGI server to run FastAPI
+requests # Used by the Ingestion/Q&A services to call the Embedding API
+
+sentence-transformers # For the local embedding model itself
