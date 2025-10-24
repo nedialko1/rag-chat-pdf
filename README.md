@@ -1,4 +1,6 @@
 # 
+<img width="480" height="270" alt="GenAI_pro_1" src="https://github.com/user-attachments/assets/e236c5fc-416b-43bb-94ff-2a3c2561f7f9" />
+
 # **Local Retrieval-Augmented Generation (RAG) System**
 This is a ... 
 
@@ -133,3 +135,4 @@ for the next steps:
 Such as applying well-known optimization principles and strategies to the language models 
 with the goal of gently reducing the necessary parameter sizes 
 and resource requirements in general, toward the next generation of AI/ML models and agents.
+
